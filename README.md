@@ -30,7 +30,7 @@ The Etterna Online Discord has a couple of channels dedicated to feedback/charti
 
 Submitting a file to a pack and getting rejected is the single best way to get reliable advice. Most people are super welcoming when a new charter is learning the basics and submits to packs. Even if a file ins't very good, it's worth sometimes submitting it to a pack for the feedback you'll be provided.
 
-## Websites
+### Websites
 
 Currently we only have 1 website for charting in general, and its Stargroup's. It goes in depth on a variety of aspets relating to charting and is generally useful, with examples of patterns and other content.
 
