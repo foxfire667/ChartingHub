@@ -14,6 +14,8 @@ The second, clunkier editor that people use is [DDreamStudio](https://www.mediaf
 
 Both of these editors are viable, but it's widely recommended to start with ArrowVortex, and there's a lot more resources available for people who are learning to use ArrowVortex.
 
+_As a side note, ArrowVortex also supports .osu files, which means you can open a .osu file in AV, and save it as a .sm for converting_
+
 ### Feedback resources
 
 This section is dedicated to listing resources for getting feedback from other charters and/or playtests from players.
