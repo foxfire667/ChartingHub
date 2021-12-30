@@ -51,7 +51,7 @@ This section is for resources that don't really fit into a category. Forum posts
 
 Mina made a document discussing a lot of what goes into dumping (A style of chart people in the community make) that's been passed around for a few years now. It has some useful information but is written in a somewhat obtuse way, so it may be a little hard to follow unless you already have a basic understanding of charting.
 
-- [Mina's dumping primer](https://docs.google.com/document/d/1zdAM1O2seIhjRB48sjgqIlnwWdMrpVnCtgCoIQSUo3A/edit#)
+- [Mina's dumping primer](https://docs.google.com/document/d/1WyiZY0tGwoCbwYaBC5O3LyeH3Nc-V2huF22ZLa1kYyA/edit)
 
 DourGent made a series of tweets about what they consider the most important aspect of stepping, along with just general advice for newer charters. It doesn't fit into any of the categories since it's a twitter thread but it still has some useful information.
 
@@ -59,7 +59,7 @@ DourGent made a series of tweets about what they consider the most important asp
 
 April made a document discussing how she approaches stepping herself, which is a good read for anyone looking to learn about how patterns and notes can flow between eachother in a way that feels intuitive. It requires some basic knowledge as well already since it expects you to know certain things, but it hits a lot of key points that are still useful to a lot of charters.
 
-- [April's document on Pattern flow](https://docs.google.com/document/d/1WyiZY0tGwoCbwYaBC5O3LyeH3Nc-V2huF22ZLa1kYyA/edit)
+- [April's document on Pattern flow](https://docs.google.com/document/d/1zdAM1O2seIhjRB48sjgqIlnwWdMrpVnCtgCoIQSUo3A/edit)
 
 There's an admittedly dated guide from Ducky on FlashFlashRevolution that goes over some of the absolute basics. It has some useful about how to go about finding what you enjoy about charting. I say it's dated because it has a few quirky views that aren't quiet echoed in modern charting (For example, talking about Pitch Relevancy not being important which is misleading for newer charters) but is still worth a read nontheless.
 
