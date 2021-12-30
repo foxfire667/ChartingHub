@@ -67,3 +67,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+test
+![ChartingHub](https://etternaonline.com/logo.svg)
