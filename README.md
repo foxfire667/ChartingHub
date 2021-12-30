@@ -32,6 +32,8 @@ Submitting a file to a pack and getting rejected is the single best way to get r
 
 ### Websites
 
+This section is dedicated to external websites that host charting guides/support. Blogs will also go here.
+
 Stargroup's charting guide website is useful, goes into a lot of depth on various key topics and provides examples for almost everything. It's slightly long winded, but it still has a lot of value and is worth reading through if you're looking to learn some stuff. Even some experienced steppers might learn a few things they never considered.
 
 [Stargroup/CosmoVibe's website](
