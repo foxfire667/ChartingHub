@@ -50,6 +50,6 @@ There is a massive multi-part guide to charting in Chinese by XingRen over on th
 
 This section is for resources that don't really fit into a category.
 
-DourGent made a series of tweets about what they consider the most important aspect of stepping, along with just general advice for newer charters. It doesn't fit into any of the resources since it's a twitter thread but it still has some use.
+DourGent made a series of tweets about what they consider the most important aspect of stepping, along with just general advice for newer charters. It doesn't fit into any of the categories since it's a twitter thread but it still has some useful information.
 
 [DourGent's Twitter thread](https://twitter.com/Martzi__/status/1446482914477232129)
