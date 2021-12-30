@@ -61,7 +61,7 @@ April made a document discussing how she approaches stepping herself, which is a
 
 [April's document on Pattern flow](https://docs.google.com/document/d/1WyiZY0tGwoCbwYaBC5O3LyeH3Nc-V2huF22ZLa1kYyA/edit)
 
-There's an admittedly dated guide from Ducky on FlashFlashRevolution that goes over some of the absolute basics. It has some useful about how to go about finding what you enjoy about charting. I say it's dated because it has a few quirky views that aren't quiet echoed in modern charting (For example, talking about Pitch Relevancy not being important which is misleading for newer charters)
+There's an admittedly dated guide from Ducky on FlashFlashRevolution that goes over some of the absolute basics. It has some useful about how to go about finding what you enjoy about charting. I say it's dated because it has a few quirky views that aren't quiet echoed in modern charting (For example, talking about Pitch Relevancy not being important which is misleading for newer charters) but is still worth a read nontheless.
 
 [Ducky's guide](https://www.flashflashrevolution.com/vbz/showthread.php?t=82080)
 
