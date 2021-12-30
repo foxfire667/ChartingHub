@@ -40,7 +40,7 @@ http://www.cosmovibe.com/ncguide/)
 
 I hope to add more websites in the future if any more are made, but at current we only have this one.
 
-## Other Languages
+### Other Languages
  
 [Xingren's Chinese charting guide](https://www.bilibili.com/read/cv12822939?spm_id_from=333.999.0.0) There is a massive multi-part guide to charting in Chinese by XingRen over on their bilibili account. He goes in depth on a lot of aspects and actively talks about what other charters in the community do to push the meta and how to build your own style among other things.
 
