@@ -47,7 +47,7 @@ There is a massive multi-part guide to charting in Chinese by XingRen over on th
 
 ### Miscellaneous
 
-This section is for resources that don't really fit into a category.
+This section is for resources that don't really fit into a category. Forum posts, tweets, documents and stuff of that type will go here.
 
 Mina made a document discussing a lot of what goes into dumping (A style of chart people in the community make) that's been passed around for a few years now. It has some useful information but is written in a somewhat obtuse way, so it may be a little hard to follow unless you already have a basic understanding of charting.
 
@@ -60,3 +60,11 @@ DourGent made a series of tweets about what they consider the most important asp
 April made a document discussing how she approaches stepping herself, which is a good read for anyone looking to learn about how patterns and notes can flow between eachother in a way that feels intuitive. It requires some basic knowledge as well already since it expects you to know certain things, but it hits a lot of key points that are still useful to a lot of charters.
 
 [April's document on Pattern flow](https://docs.google.com/document/d/1WyiZY0tGwoCbwYaBC5O3LyeH3Nc-V2huF22ZLa1kYyA/edit)
+
+There's an admittedly dated guide from Ducky on FlashFlashRevolution that goes over some of the absolute basics. It has some useful about how to go about finding what you enjoy about charting. I say it's dated because it has a few quirky views that aren't quiet echoed in modern charting (For example, talking about Pitch Relevancy not being important which is misleading for newer charters)
+
+[Ducky's guide](https://www.flashflashrevolution.com/vbz/showthread.php?t=82080)
+
+Patashu has a guide from 2011 that has some very useful information, however this guide is mainly focused on DDreamStudio, so if you're using ArrowVortex, it likely won't be as much use as you're hoping. A lot of the older resources use Stepmania 3.9's editor or DDreamstudio for their guides. It goes over some absolute basics of how to set up and get used to the editor, and is a "start from absolute scratch" type of guide.
+
+[Patashu's guide](https://www.flashflashrevolution.com/vbz/showthread.php?t=116627)
