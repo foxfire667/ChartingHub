@@ -46,24 +46,3 @@ There is a massive multi-part guide to charting in Chinese by XingRen over on th
 
 [Xingren's Chinese charting guide](https://www.bilibili.com/read/cv12822939?spm_id_from=333.999.0.0)  
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
