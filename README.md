@@ -32,17 +32,12 @@ Submitting a file to a pack and getting rejected is the single best way to get r
 
 ### Websites
 
-Currently we only have 1 website for charting in general, and its Stargroup's. It goes in depth on a variety of aspets relating to charting and is generally useful, with examples of patterns and other content.
+Stargroup's charting guide website is useful, goes into a lot of depth on various key topics and provides examples for almost everything. It's slightly long winded, but it still has a lot of value and is worth reading through if you're looking to learn some stuff. Even some experienced steppers might learn a few things they never considered.
 
 [Stargroup/CosmoVibe's website](
 http://www.cosmovibe.com/ncguide/)
-
-
-I hope to add more websites in the future if any more are made, but at current we only have this one.
-
-### Other Languages
  
-There is a massive multi-part guide to charting in Chinese by XingRen over on their bilibili account. He goes in depth on a lot of aspects and actively talks about what other charters in the community do to push the meta and how to build your own style among other things.
+There is a massive multi-part guide to charting in Chinese by XingRen over on their bilibili account. He goes in depth on a lot of aspects and actively talks about what other charters in the community do to push the meta and how to build your own style among other things. The link in question is to part 1 of the guide, the rest of the parts are on his account.
 
 [Xingren's Chinese charting guide](https://www.bilibili.com/read/cv12822939?spm_id_from=333.999.0.0)  
 
@@ -50,13 +45,13 @@ There is a massive multi-part guide to charting in Chinese by XingRen over on th
 
 This section is for resources that don't really fit into a category.
 
-DourGent made a series of tweets about what they consider the most important aspect of stepping, along with just general advice for newer charters. It doesn't fit into any of the categories since it's a twitter thread but it still has some useful information.
-
-[DourGent's Twitter thread](https://twitter.com/Martzi__/status/1446482914477232129)
-
 Mina made a document discussing a lot of what goes into dumping (A style of chart people in the community make) that's been passed around for a few years now. It has some useful information but is written in a somewhat obtuse way, so it may be a little hard to follow unless you already have a basic understanding of charting.
 
 [Mina's dumping primer](https://docs.google.com/document/d/1zdAM1O2seIhjRB48sjgqIlnwWdMrpVnCtgCoIQSUo3A/edit#)
+
+DourGent made a series of tweets about what they consider the most important aspect of stepping, along with just general advice for newer charters. It doesn't fit into any of the categories since it's a twitter thread but it still has some useful information.
+
+[DourGent's Twitter thread](https://twitter.com/Martzi__/status/1446482914477232129)
 
 April made a document discussing how she approaches stepping herself, which is a good read for anyone looking to learn about how patterns and notes can flow between eachother in a way that feels intuitive. It requires some basic knowledge as well already since it expects you to know certain things, but it hits a lot of key points that are still useful to a lot of charters.
 
