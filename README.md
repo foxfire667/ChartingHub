@@ -18,17 +18,17 @@ Both of these editors are viable, but it's widely recommended to start with Arro
 
 This section is dedicated to listing resources for getting feedback from other charters and/or playtests from players.
 
-[Charter feedback spreadsheet](https://docs.google.com/spreadsheets/d/1LYgXm9m_QFd2sLkHvZoZ4X6TcOG_sTw1nxviJLegNIk/edit?usp=sharing)
-
 This sheet has a list of charters who are happy to give feedback if contacted, along with their charting style, contact details, and past releases. It's an excellent place to find people to get feedback from, it also has a second page for playtesters who have happily added their name to playtest files you contact them about.
 
-[Etterna Online Discord charting channels](https://discord.gg/etternaonline)
+[Charter feedback spreadsheet](https://docs.google.com/spreadsheets/d/1LYgXm9m_QFd2sLkHvZoZ4X6TcOG_sTw1nxviJLegNIk/edit?usp=sharing)
 
 The Etterna Online Discord has a couple of channels dedicated to feedback/charting improvement. Where other charters in the community are able to look over your files and give direct feedback to you
 
-[Submitting to any pack listed as "open for submissions"](https://docs.google.com/spreadsheets/d/1Q8fv9ru8cxMsLRn43aSQO2dW-2pLreeFmQsDd3z5494/edit?usp=sharing)
+[Etterna Online Discord charting channels](https://discord.gg/etternaonline)
 
 Submitting a file to a pack and getting rejected is the single best way to get reliable advice. Most people are super welcoming when a new charter is learning the basics and submits to packs. Even if a file ins't very good, it's worth sometimes submitting it to a pack for the feedback you'll be provided.
+
+[Submitting to any pack listed as "open for submissions"](https://docs.google.com/spreadsheets/d/1Q8fv9ru8cxMsLRn43aSQO2dW-2pLreeFmQsDd3z5494/edit?usp=sharing)
 
 ### Websites
 
