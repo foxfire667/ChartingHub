@@ -4,7 +4,7 @@ This page is dedicated to documenting all the resources the Etterna community ha
 
 This page is exclusively for Etterna-related resources
 
-###Charting Editors
+### Charting Editors
 
 There are currently only 2 editors people in the community often use to make charts:
 
