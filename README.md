@@ -26,7 +26,7 @@ This sheet has a list of charters who are happy to give feedback if contacted, a
 
 The Etterna Online Discord has a couple of channels dedicated to feedback/charting improvement. Where other charters in the community are able to look over your files and give direct feedback to you
 
-[Submitting to any pack listed as "open for submissions"](https://forums.etternaonline.com/c/posts-relating-to-charting/organize-your-packs-here/16)
+[Submitting to any pack listed as "open for submissions"](https://docs.google.com/spreadsheets/d/1Q8fv9ru8cxMsLRn43aSQO2dW-2pLreeFmQsDd3z5494/edit?usp=sharing)
 
 Submitting a file to a pack and getting rejected is the single best way to get reliable advice. Most people are super welcoming when a new charter is learning the basics and submits to packs. Even if a file ins't very good, it's worth sometimes submitting it to a pack for the feedback you'll be provided.
 
