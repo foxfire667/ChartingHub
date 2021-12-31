@@ -27,7 +27,7 @@ ArrowVortex's official site has a guide on how to use the software. It lists the
 - [ArrowVortex official guide](https://arrowvortex.ddrnl.com/guide.html)
 - [ArrowVortex shortcut list](https://b.catgirlsare.sexy/eTvxZsDP-T1H.png)
 
-DDreamstudio's developer also wrote a guide, though since the website is dead, the guide has been archived as a forum post. It goes over how to control/use DDream studio and some other basics. The forum post is just copied directly from the website the software used to be hosted on
+DDreamstudio's developers also wrote a guide, though since the website is dead, the guide has been archived as a forum post. It goes over how to control/use DDream studio and some other basics. The forum post is just copied directly from the website the software used to be hosted on
 
 - [DDreamStudio official guide](http://www.flashflashrevolution.com/vbz/showthread.php?t=123423)
 - [DDreamStudio shortcut list](https://b.catgirlsare.sexy/SAMI68n8gYtU.png)
