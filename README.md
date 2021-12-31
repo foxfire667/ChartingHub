@@ -13,7 +13,7 @@ The first and most widely used is [ArrowVortex](https://arrowvortex.ddrnl.com/).
 The second, clunkier editor that people use is [DDreamStudioBETA5](https://www.mediafire.com/file/82al94e5ot6sfy2/ds200BETA5.zip/file).
 You could also try [DDreamStudioBETA6](https://cdn.discordapp.com/attachments/208015789381386240/442747345768022025/DDream_Studio_beta_6.7z) if you prefer, but most people use 5.
 
-Both of these editors are viable, but it's widely recommended to start with ArrowVortex, and there's a lot more resources available for people who are learning to use ArrowVortex.
+Both of these editors are viable, but it's widely recommended to start with ArrowVortex, as it is significantly easier to pick up and learn for the majority of people.
 
 _As a side note, ArrowVortex also supports .osu files, which means you can open a .osu file in AV, and save it as a .sm for converting_
 
