@@ -108,7 +108,7 @@ Mina made a document discussing a lot of what goes into dumping (A style of char
 
 - [Mina's dumping primer](https://docs.google.com/document/d/1WyiZY0tGwoCbwYaBC5O3LyeH3Nc-V2huF22ZLa1kYyA/edit)
 
-DourGent made a series of tweets about what they consider the most important aspect of stepping, along with just general advice for newer charters. It doesn't fit into any of the categories since it's a twitter thread but it still has some useful information.
+DourGent made a series of tweets about what they consider the most important aspect of stepping, along with just general advice for newer charters. It's a long thread talking about multiple different topics pertaining to charting but the information in it is still worth reading.
 
 - [DourGent's Twitter thread](https://twitter.com/Martzi__/status/1446482914477232129)
 
