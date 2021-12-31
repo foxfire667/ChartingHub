@@ -54,7 +54,7 @@ This video is a polish guide to a few things in DDreamStudio.
 
 This section is dedicated to listing resources for getting feedback from other charters and/or playtests from players.
 
-This sheet has a list of charters who are happy to give feedback if contacted, along with their charting style, contact details, and past releases. It's an excellent place to find people to get feedback from, it also has a second page for playtesters who have happily added their name to playtest files you contact them about.
+This sheet has a list of charters who are happy to give feedback if contacted, along with their charting style, contact details, and past releases. It's an excellent place to find people to get feedback from, it also has a second page for playtesters who have added their name to playtest files you contact them about.
 
 - [Charter feedback spreadsheet](https://docs.google.com/spreadsheets/d/1LYgXm9m_QFd2sLkHvZoZ4X6TcOG_sTw1nxviJLegNIk/edit?usp=sharing)
 
