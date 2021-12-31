@@ -71,7 +71,8 @@ http://www.cosmovibe.com/ncguide/)
  
 There is a massive multi-part guide to charting in Chinese by XingRen over on their bilibili account. He goes in depth on a lot of aspects and actively talks about what other charters in the community do to push the meta and how to build your own style among other things. The link in question is to part 1 of the guide, the rest of the parts are on his account.
 
-- [Xingren's Chinese charting guide](https://www.bilibili.com/read/cv12822939?spm_id_from=333.999.0.0)  
+- [Xingren's Chinese charting guide](https://www.bilibili.com/read/cv12822939?spm_id_from=333.999.0.0) 
+- [PDF version](https://b.catgirlsare.sexy/zMVw9QzJnkr7.pdf)
 
 This site lets you see what the closets way to represent certain speeds/snaps would be using 192nd's only. It's often used for more accurate and technical charting where the base snaps aren't enough to properly work with. It's also very useful for people learning how to dump, since these unusual snaps tend to let you control the speed of a chart very presicely.
 
