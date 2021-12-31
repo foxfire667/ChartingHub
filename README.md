@@ -88,7 +88,7 @@ This section is dedicated to tools or software made for various aspects of stepp
 
 This tool does exactly what it says on the tin, it generates a songlist for a pack in the form of a .png, and also lets you produce a graph based on the notes per second of specific files.
 
-- [Songlist Generator](https://cdn.discordapp.com/attachments/208015789381386240/848245041981816842/Graph_And_Songlist_Generator_Tools.zip)
+- [Songlist & NPS graph generator](https://cdn.discordapp.com/attachments/208015789381386240/848245041981816842/Graph_And_Songlist_Generator_Tools.zip)
 
 This tool lets you work out colour theory for certain snaps/charts. It's fairly clunky, but it does work once you figure out how to use it.
 
