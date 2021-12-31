@@ -80,7 +80,7 @@ There is a massive multi-part guide to charting in Chinese by XingRen over on th
 - [Xingren's Chinese charting guide](https://www.bilibili.com/read/cv12822939?spm_id_from=333.999.0.0) 
 - [PDF version](https://b.catgirlsare.sexy/zMVw9QzJnkr7.pdf)
 
-This site lets you see what the closets way to represent certain speeds/snaps would be using 192nd's only. It's often used for more accurate and technical charting where the base snaps aren't enough to properly work with. It's also very useful for people learning how to dump, since these unusual snaps tend to let you control the speed of a chart very presicely.
+This site lets you see what the closest way to represent certain speeds/snaps would be using 192nds only. It's often used for more accurate and technical charting where the base snaps aren't enough to properly work with. It's also very useful for people learning how to dump, since these unusual snaps tend to let you control the speed of a chart very presicely.
 
 - [Kangalioo's snap-calculator](https://kangalioo.github.io/stepmania-snaps/)
 
