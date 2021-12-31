@@ -10,7 +10,7 @@ There are currently only 2 editors people in the community often use to make cha
 
 The first and most widely used is [ArrowVortex](https://arrowvortex.ddrnl.com/).
 
-The second, clunkier editor that people use is [DDreamStudioBETA5](https://www.mediafire.com/file/82al94e5ot6sfy2/ds200BETA5.zip/file) or [DDreamStudioBETA6](https://cdn.discordapp.com/attachments/208015789381386240/442747345768022025/DDream_Studio_beta_6.7z). 
+The second, clunkier editor that people use is [DDreamStudioBETA5](https://www.mediafire.com/file/82al94e5ot6sfy2/ds200BETA5.zip/file) (or [BETA6](https://cdn.discordapp.com/attachments/208015789381386240/442747345768022025/DDream_Studio_beta_6.7z) if you prefer). 
 
 Both of these editors are viable, but it's widely recommended to start with ArrowVortex, as it is significantly easier to pick up and learn for the majority of people.
 
