@@ -46,7 +46,9 @@ Tachyon made a video guide on the basics of using ArrowVortex, where he goes ove
 
 - [Tachyon's ArrowVortex basics guide](https://www.youtube.com/watch?v=hFO6IjzuOQM)
 
-This is a DDreamStudio guide for learning the basics in french
+This video is a polish guide to a few things in DDreamStudio
+
+[Polish DDreamstudio video by johnreactor](https://youtu.be/_M0ooUWY5dc)
 
 ### Feedback resources
 
