@@ -18,7 +18,7 @@ _As a side note, ArrowVortex also supports .osu files, which means you can open 
 
 ### Basic editor setup guides
 
-This sub-section is dedicated to guides and/or pages explaining how to control or use specific editors.
+This sub-section is dedicated to guides explaining how to control or use specific editors.
 
 **OFFICIAL** 
 
