@@ -1,6 +1,6 @@
 ## Charting Resources
 
-This page is dedicated to documenting all the resources the Etterna community has available in 1 tidy place for new (and experienced) charters to access without needing to jump through any hoops.
+This page is dedicated to documenting all the resources the Etterna community has available in 1 tidy place for charters to access without needing to jump through any hoops.
 
 This page is exclusively for Etterna-related resources.
 
