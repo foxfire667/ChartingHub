@@ -36,6 +36,10 @@ Patashu has a guide from 2011 that has some very useful information, however thi
 
 - [Patashu's guide](https://www.flashflashrevolution.com/vbz/showthread.php?t=116627)
 
+Patashu also made a much smaller miniguide on the same topic, explaining how to control DDreamStudio
+
+- [Patashu's miniguide](http://www.flashflashrevolution.com/vbz/showthread.php?t=118975)
+
 ### Feedback resources
 
 This section is dedicated to listing resources for getting feedback from other charters and/or playtests from players.
