@@ -16,6 +16,15 @@ Both of these editors are viable, but it's widely recommended to start with Arro
 
 _As a side note, ArrowVortex also supports .osu files, which means you can open a .osu file in AV, and save it as a .sm for converting_
 
+# Basic setup guides
+
+This sub-section is dedicated to guides and/or pages explaining how to control or use specific editors.
+
+ArrowVortex's official site has a guide on how to use the software. It lists the basic keybinds as well as some other useful information for someone opening the software for the first time, such as how to create a file in the first place.
+
+[ArrowVortex official guide](https://arrowvortex.ddrnl.com/guide.html)
+
+
 ### Feedback resources
 
 This section is dedicated to listing resources for getting feedback from other charters and/or playtests from players.
@@ -47,7 +56,7 @@ There is a massive multi-part guide to charting in Chinese by XingRen over on th
 
 ### Miscellaneous
 
-This section is for resources that don't really fit into a category. Forum posts, tweets, documents and stuff of that type will go here.
+This section is for resources that don't really fit into a category. Forum posts, tweets, documents and stuff of that type (That aren't an editor guide) will go here 
 
 Mina made a document discussing a lot of what goes into dumping (A style of chart people in the community make) that's been passed around for a few years now. It has some useful information but is written in a somewhat obtuse way, so it may be a little hard to follow unless you already have a basic understanding of charting.
 
