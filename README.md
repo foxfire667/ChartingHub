@@ -11,7 +11,6 @@ There are currently only 2 editors people in the community often use to make cha
 The first and most widely used is [ArrowVortex](https://arrowvortex.ddrnl.com/).
 
 The second, clunkier editor that people use is [DDreamStudio](https://www.mediafire.com/file/82al94e5ot6sfy2/ds200BETA5.zip/file).
-
 Both of these editors are viable, but it's widely recommended to start with ArrowVortex, and there's a lot more resources available for people who are learning to use ArrowVortex.
 
 _As a side note, ArrowVortex also supports .osu files, which means you can open a .osu file in AV, and save it as a .sm for converting_
@@ -69,9 +68,23 @@ There is a massive multi-part guide to charting in Chinese by XingRen over on th
 
 - [Xingren's Chinese charting guide](https://www.bilibili.com/read/cv12822939?spm_id_from=333.999.0.0)  
 
+This site lets you see what the closets way to represent certain speeds/snaps would be using 192nd's only. It's often used for more accurate and technical charting where the base snaps aren't enough to properly work with. It's also very useful for people learning how to dump, since these unusual snaps tend to let you control the speed of a chart very presicely.
+
+[Kanglioo's snap-calculator](https://kangalioo.github.io/stepmania-snaps/)
+
+### Tools
+
+This section is dedicated to tools or software made for various aspects of stepping.
+
+This tool does exactly what it says on the tin, it generates a songlist for a pack in the form of a .png, and also lets you produce a graph based on the notes per second of specific files.
+
+- [Songlist Generator](https://cdn.discordapp.com/attachments/208015789381386240/848245041981816842/Graph_And_Songlist_Generator_Tools.zip)
+
+
+
 ### Miscellaneous
 
-This section is for resources that don't really fit into a category. Forum posts, tweets, documents and stuff of that type (That aren't an editor guide) will go here 
+This section is dedicated to resources that don't really fit into a category. Forum posts, tweets, documents and stuff of that type (That aren't an editor guide) will go here 
 
 Mina made a document discussing a lot of what goes into dumping (A style of chart people in the community make) that's been passed around for a few years now. It has some useful information but is written in a somewhat obtuse way, so it may be a little hard to follow unless you already have a basic understanding of charting.
 
