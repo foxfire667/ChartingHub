@@ -40,6 +40,10 @@ Patashu also made a much smaller miniguide on the same topic, explaining how to 
 
 - [Patashu's miniguide](http://www.flashflashrevolution.com/vbz/showthread.php?t=118975)
 
+Tachyon made a video guide on the basics of using ArrowVortex, where he goes over a lot of what's mentioned on the official guide in video format. It's spoken from the perspective of an osu player mostly though (Talking about banner/backgrounds only applying to etterna and similar things) but it's easy to ignore that aspect of it.
+
+- [Tachyon's ArrowVortex basics guide](https://www.youtube.com/watch?v=hFO6IjzuOQM)
+
 ### Feedback resources
 
 This section is dedicated to listing resources for getting feedback from other charters and/or playtests from players.
