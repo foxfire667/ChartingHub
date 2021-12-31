@@ -25,10 +25,12 @@ This sub-section is dedicated to guides and/or pages explaining how to control o
 ArrowVortex's official site has a guide on how to use the software. It lists the basic keybinds as well as some other useful information for someone opening the software for the first time, such as how to create a file in the first place.
 
 - [ArrowVortex official guide](https://arrowvortex.ddrnl.com/guide.html)
+- [ArrowVortex shortcut list](https://b.catgirlsare.sexy/eTvxZsDP-T1H.png)
 
 DDreamstudio's developer also wrote a guide, though since the website is dead, the guide has been archived as a forum post. It goes over how to control/use DDream studio and some other basics. The forum post is just copied directly from the website the software used to be hosted on
 
 - [DDreamStudio official guide](http://www.flashflashrevolution.com/vbz/showthread.php?t=123423)
+- [DDreamStudio shortcut list](https://b.catgirlsare.sexy/SAMI68n8gYtU.png)
 
 **COMMUNITY-MADE**
 
@@ -43,6 +45,8 @@ Patashu also made a much smaller miniguide on the same topic, explaining how to 
 Tachyon made a video guide on the basics of using ArrowVortex, where he goes over a lot of what's mentioned on the official guide in video format. Since its spoken from the perspective of an osu player, there's a few comments here and there that are safe to be ignored if you're learning how to use it for Etterna, but it doesn't detract from the information given
 
 - [Tachyon's ArrowVortex basics guide](https://www.youtube.com/watch?v=hFO6IjzuOQM)
+
+This is a DDreamStudio guide for learning the basics in french
 
 ### Feedback resources
 
