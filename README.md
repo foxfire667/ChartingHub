@@ -82,7 +82,7 @@ There is a massive multi-part guide to charting in Chinese by XingRen over on th
 
 This site lets you see what the closets way to represent certain speeds/snaps would be using 192nd's only. It's often used for more accurate and technical charting where the base snaps aren't enough to properly work with. It's also very useful for people learning how to dump, since these unusual snaps tend to let you control the speed of a chart very presicely.
 
-[Kangalioo's snap-calculator](https://kangalioo.github.io/stepmania-snaps/)
+- [Kangalioo's snap-calculator](https://kangalioo.github.io/stepmania-snaps/)
 
 ### Tools
 
@@ -98,7 +98,7 @@ This tool lets you work out colour theory for certain snaps/charts. It's fairly 
 
 There's also this archive of every tool for Stepmania (The game Etterna is a fork of) in 1 convenient place. A lot of things on here are a bit outdated but its worth looking at nontheless.
 
-[Stepmania Tools Archive](https://josevarela.xyz/SMArchive/Tools/index.html )
+- [Stepmania Tools Archive](https://josevarela.xyz/SMArchive/Tools/index.html )
 
 ### Miscellaneous
 
