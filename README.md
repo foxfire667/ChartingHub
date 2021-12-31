@@ -14,7 +14,7 @@ The second, clunkier editor that people use is [DDreamStudioBETA5](https://www.m
 
 Both of these editors are viable, but it's widely recommended to start with ArrowVortex, as it is significantly easier to pick up and learn for the majority of people.
 
-_As a side note, ArrowVortex also supports .osu files, which means you can open a .osu file in AV, and save it as a .sm for converting_
+_As a side note, ArrowVortex also supports .osu files, which means you can open a .osu file in AV, and save it as a .sm for converting, but functionality for this feature is a little buggy, and can cause severe desync, so be careful with it._
 
 ### Basic editor setup guides
 
@@ -27,14 +27,14 @@ ArrowVortex's official site has a guide on how to use the software. It lists the
 - [ArrowVortex official guide](https://arrowvortex.ddrnl.com/guide.html)
 - [ArrowVortex shortcut list](https://b.catgirlsare.sexy/eTvxZsDP-T1H.png)
 
-DDreamstudio's developers also wrote a guide, though since the website is dead, the guide has been archived as a forum post. It goes over how to control/use DDream studio and some other basics. The forum post is just copied directly from the website the software used to be hosted on
+DDreamstudio's developers also wrote a guide, though since the website is dead, the guide has been archived as a forum post. It goes over how to control/use DDream studio and some other basics. The forum post is just copied directly from the website the software used to be hosted on.
 
 - [DDreamStudio official guide](http://www.flashflashrevolution.com/vbz/showthread.php?t=123423)
 - [DDreamStudio shortcut list](https://b.catgirlsare.sexy/SAMI68n8gYtU.png)
 
 **COMMUNITY-MADE**
 
-Patashu has a guide from 2011 that has some very useful information, however this guide is mainly focused on DDreamStudio, so if you're using ArrowVortex, it likely won't be as much use as you're hoping. A lot of the older resources use Stepmania 3.9's editor or DDreamstudio for their guides. It goes over some absolute basics of how to set up and get used to the editor, and is a "start from absolute scratch" type of guide.
+Patashu has a guide from 2011 that has some very useful information, however this guide is mainly focused on DDreamStudio. If you’re using ArrowVortex, it likely won’t be as much use as you’re hoping. A lot of the older resources use Stepmania 3.9's editor or DDreamstudio for their guides. It goes over some absolute basics of how to set up and get used to the editor, and is a "start from absolute scratch" type of guide.
 
 - [Patashu's guide](https://www.flashflashrevolution.com/vbz/showthread.php?t=116627)
 
@@ -42,11 +42,11 @@ Patashu also made a much smaller miniguide on the same topic, explaining how to 
 
 - [Patashu's miniguide](http://www.flashflashrevolution.com/vbz/showthread.php?t=118975)
 
-Tachyon made a video guide on the basics of using ArrowVortex, where he goes over a lot of what's mentioned on the official guide in video format. Since its spoken from the perspective of an osu player, there's a few comments here and there that are safe to be ignored if you're learning how to use it for Etterna, but it doesn't detract from the information given
+Tachyon made a video guide on the basics of using ArrowVortex, where he goes over a lot of what's mentioned on the official guide in video format. Since its spoken from the perspective of an osu player, there's a few comments here and there that are safe to be ignored if you're learning how to use it for Etterna, but it doesn't detract from the information given.
 
 - [Tachyon's ArrowVortex basics guide](https://www.youtube.com/watch?v=hFO6IjzuOQM)
 
-This video is a polish guide to a few things in DDreamStudio
+This video is a polish guide to a few things in DDreamStudio.
 
 - [Polish DDreamstudio video by johnreactor](https://youtu.be/_M0ooUWY5dc)
 
@@ -58,7 +58,7 @@ This sheet has a list of charters who are happy to give feedback if contacted, a
 
 - [Charter feedback spreadsheet](https://docs.google.com/spreadsheets/d/1LYgXm9m_QFd2sLkHvZoZ4X6TcOG_sTw1nxviJLegNIk/edit?usp=sharing)
 
-The Etterna Online Discord has a couple of channels dedicated to feedback/charting improvement. Where other charters in the community are able to look over your files and give direct feedback to you
+The Etterna Online Discord has a couple of channels dedicated to feedback/charting improvement. You can use these channels to ask for feedback from other charters in the community.
 
 - [Etterna Online Discord charting channels](https://discord.gg/etternaonline)
 
@@ -96,13 +96,13 @@ This tool lets you work out colour theory for certain snaps/charts. It's fairly 
 
 - [.sm recolouriser](https://mzrg.com/stepmania/draw/awesome.html)
 
-There's also this archive of every tool for Stepmania (The game Etterna is a fork of) in 1 convenient place. A lot of things on here are a bit outdated but its worth looking at nontheless
+There's also this archive of every tool for Stepmania (The game Etterna is a fork of) in 1 convenient place. A lot of things on here are a bit outdated but its worth looking at nontheless.
 
 [Stepmania Tools Archive](https://josevarela.xyz/SMArchive/Tools/index.html )
 
 ### Miscellaneous
 
-This section is dedicated to resources that don't really fit into a category. Forum posts, tweets, documents and stuff of that type (That aren't an editor guide) will go here 
+This section is dedicated to resources that don't really fit into a category. Forum posts, tweets, documents and stuff of that type (That aren't an editor guide) will go here.
 
 Mina made a document discussing a lot of what goes into dumping (A style of chart people in the community make) that's been passed around for a few years now. It has some useful information but is written in a somewhat obtuse way, so it may be a little hard to follow unless you already have a basic understanding of charting.
 
