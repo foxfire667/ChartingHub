@@ -10,7 +10,8 @@ There are currently only 2 editors people in the community often use to make cha
 
 The first and most widely used is [ArrowVortex](https://arrowvortex.ddrnl.com/).
 
-The second, clunkier editor that people use is [DDreamStudio](https://www.mediafire.com/file/82al94e5ot6sfy2/ds200BETA5.zip/file).
+The second, clunkier editor that people use is [DDreamStudioBETA5](https://www.mediafire.com/file/82al94e5ot6sfy2/ds200BETA5.zip/file).
+You could also try [DDreamStudioBETA6](https://cdn.discordapp.com/attachments/208015789381386240/442747345768022025/DDream_Studio_beta_6.7z) if you prefer, but most people use 5.
 
 Both of these editors are viable, but it's widely recommended to start with ArrowVortex, and there's a lot more resources available for people who are learning to use ArrowVortex.
 
@@ -28,7 +29,7 @@ ArrowVortex's official site has a guide on how to use the software. It lists the
 
 DDreamstudio's developer also wrote a guide, though since the website is dead, the guide has been archived as a forum post. It goes over how to control/use DDream studio and some other basics. The forum post is just copied directly from the website the software used to be hosted on
 
-- [DDReamStudio official guide](http://www.flashflashrevolution.com/vbz/showthread.php?t=123423)
+- [DDreamStudio official guide](http://www.flashflashrevolution.com/vbz/showthread.php?t=123423)
 
 **COMMUNITY-MADE**
 
@@ -81,7 +82,13 @@ This tool does exactly what it says on the tin, it generates a songlist for a pa
 
 - [Songlist Generator](https://cdn.discordapp.com/attachments/208015789381386240/848245041981816842/Graph_And_Songlist_Generator_Tools.zip)
 
+This tool lets you work out colour theory for certain snaps/charts. It's fairly clunky, but it does work once you figure out how to use it.
 
+- [.sm recolouriser](https://mzrg.com/stepmania/draw/awesome.html)
+
+There's also this archive of every tool for Stepmania (The game Etterna is a fork of) in 1 convenient place. A lot of things on here are a bit outdated but its worth looking at nontheless
+
+[Stepmania Tools Archive](https://josevarela.xyz/SMArchive/Tools/index.html )
 
 ### Miscellaneous
 
