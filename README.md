@@ -46,7 +46,7 @@ Tachyon made a video guide on the basics of using ArrowVortex, where he goes ove
 
 - [Tachyon's ArrowVortex basics guide](https://www.youtube.com/watch?v=hFO6IjzuOQM)
 
-This video is a polish guide to a few things in DDreamStudio.
+John Reactor made a polish video on how to sync a song on DDreamStudio, the video goes into how to set the BPM of charts and how to edit the offset using the software.
 
 - [Polish DDreamstudio video by johnreactor](https://youtu.be/_M0ooUWY5dc)
 
