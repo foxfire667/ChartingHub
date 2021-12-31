@@ -16,14 +16,25 @@ Both of these editors are viable, but it's widely recommended to start with Arro
 
 _As a side note, ArrowVortex also supports .osu files, which means you can open a .osu file in AV, and save it as a .sm for converting_
 
-### Basic setup guides
+### Basic editor setup guides
 
 This sub-section is dedicated to guides and/or pages explaining how to control or use specific editors.
 
+**OFFICIAL** 
+
 ArrowVortex's official site has a guide on how to use the software. It lists the basic keybinds as well as some other useful information for someone opening the software for the first time, such as how to create a file in the first place.
 
-[ArrowVortex official guide](https://arrowvortex.ddrnl.com/guide.html)
+- [ArrowVortex official guide](https://arrowvortex.ddrnl.com/guide.html)
 
+DDreamstudio's developer also wrote a guide, though since the website is dead, the guide has been archived as a forum post. It goes over how to control/use DDream studio and some other basics. The forum post is just copied directly from the website the software used to be hosted on
+
+- [DDReamStudio official guide](http://www.flashflashrevolution.com/vbz/showthread.php?t=123423)
+
+**COMMUNITY-MADE**
+
+Patashu has a guide from 2011 that has some very useful information, however this guide is mainly focused on DDreamStudio, so if you're using ArrowVortex, it likely won't be as much use as you're hoping. A lot of the older resources use Stepmania 3.9's editor or DDreamstudio for their guides. It goes over some absolute basics of how to set up and get used to the editor, and is a "start from absolute scratch" type of guide.
+
+- [Patashu's guide](https://www.flashflashrevolution.com/vbz/showthread.php?t=116627)
 
 ### Feedback resources
 
@@ -73,7 +84,3 @@ April made a document discussing how she approaches stepping herself, which is a
 There's an admittedly dated guide from Ducky on FlashFlashRevolution that goes over some of the absolute basics. It has some useful about how to go about finding what you enjoy about charting. I say it's dated because it has a few quirky views that aren't quiet echoed in modern charting (For example, talking about Pitch Relevancy not being important which is misleading for newer charters) but is still worth a read nontheless.
 
 - [Ducky's guide](https://www.flashflashrevolution.com/vbz/showthread.php?t=82080)
-
-Patashu has a guide from 2011 that has some very useful information, however this guide is mainly focused on DDreamStudio, so if you're using ArrowVortex, it likely won't be as much use as you're hoping. A lot of the older resources use Stepmania 3.9's editor or DDreamstudio for their guides. It goes over some absolute basics of how to set up and get used to the editor, and is a "start from absolute scratch" type of guide.
-
-- [Patashu's guide](https://www.flashflashrevolution.com/vbz/showthread.php?t=116627)
