@@ -48,7 +48,7 @@ Tachyon made a video guide on the basics of using ArrowVortex, where he goes ove
 
 This video is a polish guide to a few things in DDreamStudio
 
-[Polish DDreamstudio video by johnreactor](https://youtu.be/_M0ooUWY5dc)
+- [Polish DDreamstudio video by johnreactor](https://youtu.be/_M0ooUWY5dc)
 
 ### Feedback resources
 
@@ -119,3 +119,9 @@ April made a document discussing how she approaches stepping herself, which is a
 There's an admittedly dated guide from Ducky on FlashFlashRevolution that goes over some of the absolute basics. It has some useful about how to go about finding what you enjoy about charting. I say it's dated because it has a few quirky views that aren't quiet echoed in modern charting (For example, talking about Pitch Relevancy not being important which is misleading for newer charters) but is still worth a read nontheless.
 
 - [Ducky's guide](https://www.flashflashrevolution.com/vbz/showthread.php?t=82080)
+
+
+
+
+
+If there's any resources missed please let me know [here](https://twitter.com/Martzi__) or on discord (DourGent#9610)
