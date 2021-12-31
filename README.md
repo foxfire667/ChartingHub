@@ -124,4 +124,4 @@ There's an admittedly dated guide from Ducky on FlashFlashRevolution that goes o
 
 
 
-If there's any resources missed please let me know [here](https://twitter.com/Martzi__) or on discord (DourGent#9610)
+_If there's any resources missed please let me know [here](https://twitter.com/Martzi__) or on discord (DourGent#9610)_
