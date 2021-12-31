@@ -11,6 +11,7 @@ There are currently only 2 editors people in the community often use to make cha
 The first and most widely used is [ArrowVortex](https://arrowvortex.ddrnl.com/).
 
 The second, clunkier editor that people use is [DDreamStudio](https://www.mediafire.com/file/82al94e5ot6sfy2/ds200BETA5.zip/file).
+
 Both of these editors are viable, but it's widely recommended to start with ArrowVortex, and there's a lot more resources available for people who are learning to use ArrowVortex.
 
 _As a side note, ArrowVortex also supports .osu files, which means you can open a .osu file in AV, and save it as a .sm for converting_
