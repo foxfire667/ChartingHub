@@ -16,7 +16,7 @@ Both of these editors are viable, but it's widely recommended to start with Arro
 
 _As a side note, ArrowVortex also supports .osu files, which means you can open a .osu file in AV, and save it as a .sm for converting_
 
-# Basic setup guides
+### Basic setup guides
 
 This sub-section is dedicated to guides and/or pages explaining how to control or use specific editors.
 
