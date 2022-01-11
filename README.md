@@ -108,7 +108,7 @@ April made a document discussing how she approaches stepping herself, which is a
 
 - [April's document on Pattern flow](https://docs.google.com/document/d/1zdAM1O2seIhjRB48sjgqIlnwWdMrpVnCtgCoIQSUo3A/edit)
 
-DourGent made a document discussing density management within Chordjacks specifically. The document goes over how they approaches the subject in their own files and goes over examples of it, explaining along the way how it intergrates with various things. Since this is about a specific style of chart, it already assumes you have some pre-existing knowledge on basic charting princaples, but it still has some important information for people who feel like that type of charting is too limiting.
+DourGent made a document discussing density management within Chordjacks specifically. The document goes over how they approaches the subject in their own files and goes over examples of it, explaining along the way how it intergrates with various things. Since this is about a specific style of chart, it already assumes you have some pre-existing knowledge on basic charting principles, but it still has some important information for people who feel like that type of charting is too limiting.
 
 - [DourGent's document on Density Management](https://docs.google.com/document/d/1ZU42L2ZeZCTWz6lMtRtv1uDobSFPv5GBWax2bNSL0Bc/edit?usp=sharing)
 
