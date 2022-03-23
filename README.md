@@ -64,7 +64,7 @@ The Etterna Online Discord has a couple of channels dedicated to feedback/charti
 
 Submitting a file to a pack and getting rejected is the single best way to get reliable advice. Most people are super welcoming when a new charter is learning the basics and submits to packs. Even if a file isn't very good, it's worth sometimes submitting it to a pack for the feedback you'll be provided.
 
-- [Submitting to any pack listed as "open for submissions"](https://docs.google.com/spreadsheets/d/1Q8fv9ru8cxMsLRn43aSQO2dW-2pLreeFmQsDd3z5494/edit?usp=sharing)
+- [Submitting to any pack listed as "open for submissions"](https://paq.notion.site/b0ed3e08b6c04bcaa438bd0919a389ea)
 
 ### Websites
 
