@@ -42,6 +42,14 @@ Patashu also made a much smaller miniguide on the same topic, explaining how to 
 
 - [Patashu's miniguide](http://www.flashflashrevolution.com/vbz/showthread.php?t=118975)
 
+Puwa98kamai made a video going over the different snaps people use in charts, as well as a number of patterns and terminology. It's incredibly basic, but a good video to explain what people might be talking about if you know absolutely nothing. Worth watching if you're brand new to charting!
+
+- [Puwa98kamai's snap and pattern types showcase](https://www.youtube.com/watch?v=Jgz8-UKv8NE)
+
+Ryger Maps made a tutorial on how to sync in Arrow Vortex, though since its for beat saber, not all of the info in the video is something to pay attention to. Despite that though, it does show you how to use Arrow Vortex's auto-sync feature, which works for all single bpm songs. It's worth checking out nonetheless, despite it being for a different game.
+
+-[Ryger Maps Beat Saber syncing video](https://www.youtube.com/watch?v=Z49UKFefu5c)
+
 Tachyon made a video guide on the basics of using ArrowVortex, where he goes over a lot of what's mentioned on the official guide in video format. Since its spoken from the perspective of an osu player, there's a few comments here and there that are safe to be ignored if you're learning how to use it for Etterna, but it doesn't detract from the information given.
 
 - [Tachyon's ArrowVortex basics guide](https://www.youtube.com/watch?v=hFO6IjzuOQM)
