@@ -25,12 +25,12 @@ This sub-section is dedicated to guides explaining how to control or use specifi
 ArrowVortex's official site has a guide on how to use the software. It lists the basic keybinds as well as some other useful information for someone opening the software for the first time, such as how to create a file in the first place.
 
 - [ArrowVortex official guide](https://arrowvortex.ddrnl.com/guide.html)
-- [ArrowVortex shortcut list](https://b.catgirlsare.sexy/eTvxZsDP-T1H.png)
+- [ArrowVortex shortcut list](https://b.cgas.io/eTvxZsDP-T1H.png)
 
 DDreamstudio's developers also wrote a guide, though since the website is dead, the guide has been archived as a forum post. It goes over how to control/use DDream studio and some other basics. The forum post is just copied directly from the website the software used to be hosted on.
 
 - [DDreamStudio official guide](http://www.flashflashrevolution.com/vbz/showthread.php?t=123423)
-- [DDreamStudio shortcut list](https://b.catgirlsare.sexy/SAMI68n8gYtU.png)
+- [DDreamStudio shortcut list](https://b.cgas.io/SAMI68n8gYtU.png)
 
 **COMMUNITY-MADE**
 
@@ -86,7 +86,7 @@ http://www.cosmovibe.com/ncguide/)
 There is a massive multi-part guide to charting in Chinese by XingRen over on their bilibili account. He goes in depth on a lot of aspects and actively talks about what other charters in the community do to push the meta and how to build your own style among other things. The link in question is to part 1 of the guide, the rest of the parts are on his account.
 
 - [Xingren's Chinese charting guide](https://www.bilibili.com/read/cv12822939?spm_id_from=333.999.0.0) 
-- [PDF version](https://b.catgirlsare.sexy/zMVw9QzJnkr7.pdf)
+- [PDF version](https://b.cgas.io/zMVw9QzJnkr7.pdf)
 
 This site lets you see what the closest way to represent certain speeds/snaps would be using 192nds only. It's often used for more accurate and technical charting where the base snaps aren't enough to properly work with. It's also very useful for people learning how to dump, since these unusual snaps tend to let you control the speed of a chart very presicely.
 
@@ -103,10 +103,15 @@ This tool does exactly what it says on the tin, it generates a songlist for a pa
 This tool lets you work out colour theory for certain snaps/charts. It's fairly clunky, but it does work once you figure out how to use it.
 
 - [.sm recolouriser](https://mzrg.com/stepmania/draw/awesome.html)
+- [.sm recolouriser v2 (FFR focus)](https://www.flashflashrevolution.com/~velocity/ffrjs/recolor/)
 
 There's also this archive of every tool for Stepmania (the game Etterna is a fork of) in 1 convenient place. A lot of things on here are a bit outdated but its worth looking at nontheless.
 
 - [Stepmania Tools Archive](https://josevarela.xyz/SMArchive/Tools/index.html )
+
+There's a tool written by Cosmovibe that previews charts for you, though it isn't super intuitive to use initially, it could be helpful still! To use it, you must provide a URL link to both your .sm and .mp3 hosted on a different platform (Discord, custom upload api, etc). It also Requires CORS enabled in order for the preview page to function.
+
+- [Cosmivibe's chart previewer](https://www.cosmovibe.com/chart_preview.html?)
 
 ### Miscellaneous
 
