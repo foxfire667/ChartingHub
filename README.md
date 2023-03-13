@@ -141,4 +141,4 @@ There's an admittedly dated guide from Ducky on FlashFlashRevolution that goes o
 
 
 
-_If there's any resources missed please let me know [here]((https://twitter.com/xanyu__)) or on discord (Samctuary#2917)_
+_If there's any resources missed please let me know [here](https://twitter.com/xanyu__) or on discord (Samctuary#2917)_
