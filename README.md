@@ -90,7 +90,7 @@ There is a massive multi-part guide to charting in Chinese by XingRen over on th
 
 This site lets you see what the closest way to represent certain speeds/snaps would be using 192nds only. It's often used for more accurate and technical charting where the base snaps aren't enough to properly work with. It's also very useful for people learning how to dump, since these unusual snaps tend to let you control the speed of a chart very presicely.
 
-- [Kangalioo's snap-calculator](https://kangalioo.github.io/stepmania-snaps/)
+- [Kangalio's snap-calculator](https://kangalio.github.io/stepmania-snaps/)
 
 ### Tools
 
@@ -111,7 +111,7 @@ There's also this archive of every tool for Stepmania (the game Etterna is a for
 
 There's a tool written by Cosmovibe that previews charts for you, though it isn't super intuitive to use initially, it could be helpful still! To use it, you must provide a URL link to both your .sm and .mp3 hosted on a different platform (Discord, custom upload api, etc). It also Requires CORS enabled in order for the preview page to function.
 
-- [Cosmivibe's chart previewer](https://www.cosmovibe.com/chart_preview.html?)
+- [Cosmovibe's chart previewer](https://www.cosmovibe.com/chart_preview.html?)
 
 ### Miscellaneous
 
