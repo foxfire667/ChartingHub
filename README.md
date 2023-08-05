@@ -126,6 +126,10 @@ April made a document discussing how she approaches stepping herself, which is a
 
 - [April's document on Pattern flow](https://docs.google.com/document/d/1zdAM1O2seIhjRB48sjgqIlnwWdMrpVnCtgCoIQSUo3A/edit)
 
+April also made a document where she goes over ghost notes, explaining their uses in charting. It's a good resource for anyone interested in learning how to properly utilise ghost notes, as it goes over various uses for them in clear detail and explains each use.
+
+- [April's document on ghost notes](https://docs.google.com/document/d/15E-4OZiPZNMjydsE1rSJkjntJIIVi0PCa0CXDkGVSHs/edit)
+
 Samctuary made a document discussing density management within Chordjacks specifically. The document goes over how they approaches the subject in their own files and goes over examples of it, explaining along the way how it intergrates with various things. Since this is about a specific style of chart, it already assumes you have some pre-existing knowledge on basic charting principles, but it still has some important information for people who feel like that type of charting is too limiting.
 
 - [Samctuary's document on Density Management](https://docs.google.com/document/d/1ZU42L2ZeZCTWz6lMtRtv1uDobSFPv5GBWax2bNSL0Bc/edit?usp=sharing)
