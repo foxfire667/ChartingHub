@@ -98,7 +98,7 @@ This section is dedicated to tools or software made for various aspects of stepp
 
 This tool is the tool every charter uses to produce those song list pictures you see on every release. It's self explanitory, so I won't write too much about it.
 
-- [Songlist Generator](https://b.catgirlsare.sexy/HyiCWBM-lqA4.zip)
+- [Songlist Generator](https://b.cgas.io/HyiCWBM-lqA4.zip)
 - [Example of output](https://forums.etternaonline.com/uploads/default/original/2X/c/c5bbc818df47ab901cbc4e29cf78897684dafd33.png)
 
 This tool does exactly what it says on the tin, it generates a songlist for a pack in the form of a .png, and also lets you produce a graph based on the notes per second of specific files.
@@ -138,9 +138,9 @@ Mina made a document discussing a lot of what goes into dumping (a style of char
 
 - [Mina's dumping primer](https://docs.google.com/document/d/1WyiZY0tGwoCbwYaBC5O3LyeH3Nc-V2huF22ZLa1kYyA/edit)
 
-Samctuary made a series of tweets about what they consider the most important aspect of stepping, along with just general advice for newer charters. It's a long thread talking about multiple different topics pertaining to charting but the information in it is still worth reading.
+Samctuary made a series of tweets about what they consider the most important aspect of stepping, along with just general advice for newer charters. It's a long thread talking about multiple different topics pertaining to charting but the information in it is still worth reading. It was deleted, so the link goes to a screenshot of the thread
 
-- [Samctuary's Twitter thread](https://twitter.com/Martzi__/status/1446482914477232129)
+- [Samctuary's archived Twitter thread](https://i.imgur.com/bCVdD4a.png)
 
 There's an admittedly dated guide from Ducky on FlashFlashRevolution that goes over some of the absolute basics. It has some useful about how to go about finding what you enjoy about charting. I say it's dated because it has a few quirky views that aren't quiet echoed in modern charting (for example, talking about Pitch Relevancy not being important which is misleading for newer charters) but is still worth a read nontheless.
 
@@ -150,4 +150,4 @@ There's an admittedly dated guide from Ducky on FlashFlashRevolution that goes o
 
 
 
-_If there's any resources missed please let me know [here](https://twitter.com/xanyu__) or on discord (Samctuary#2917)_
+ If there's any resources missed please let me know [here](https://forums.etternaonline.com/u/martzi/summary)
