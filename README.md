@@ -138,9 +138,9 @@ Mina made a document discussing a lot of what goes into dumping (a style of char
 
 - [Mina's dumping primer](https://docs.google.com/document/d/1WyiZY0tGwoCbwYaBC5O3LyeH3Nc-V2huF22ZLa1kYyA/edit)
 
-Samctuary made a series of tweets about what they consider the most important aspect of stepping, along with just general advice for newer charters. It's a long thread talking about multiple different topics pertaining to charting but the information in it is still worth reading. It was deleted, so the link goes to a screenshot of the thread
+Samctuary has written a series of tweets about charting over the years, they were compiled and archived for people to read.
 
-- [Samctuary's archived Twitter thread](https://i.imgur.com/bCVdD4a.png)
+- [Samctuary's archived Twitter posts](https://imgur.com/a/UKQRfEk) 
 
 There's an admittedly dated guide from Ducky on FlashFlashRevolution that goes over some of the absolute basics. It has some useful about how to go about finding what you enjoy about charting. I say it's dated because it has a few quirky views that aren't quiet echoed in modern charting (for example, talking about Pitch Relevancy not being important which is misleading for newer charters) but is still worth a read nontheless.
 
