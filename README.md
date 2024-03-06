@@ -118,6 +118,10 @@ There's a tool written by Cosmovibe that previews charts for you, though it isn'
 
 - [Cosmovibe's chart previewer](https://www.cosmovibe.com/chart_preview.html?)
 
+A set of tools written by Zeta to make stylistic aspects of charting easier. Currently included is a background change generator, a scroll interpolator, and a scroll normalizer. If you're planning on utilizing scroll speed gimmicks, particularly through .ssc speed changes, using these tools alongside AV / Etterna for playtesting could be very helpful.
+
+- [Zeta's Etterna Tools](https://www.starke.gg/etterna/tools)
+
 ### Miscellaneous
 
 Forum posts, tweets, documents, etc. will go here.
